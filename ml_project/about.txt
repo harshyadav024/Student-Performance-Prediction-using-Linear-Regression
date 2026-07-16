@@ -1,0 +1,71 @@
+Student Performance Prediction using Linear Regression
+
+Project Overview
+----------------
+This machine learning project predicts a student's total score based on multiple academic and performance-related factors using Linear Regression.
+
+The project demonstrates the complete machine learning workflow, including data loading, feature selection, model training, evaluation, visualization, and prediction on new data.
+
+Dataset Features
+----------------
+Input Features:
+- Study Hours per Week
+- Attendance (%)
+- Midterm Score
+- Project Score
+- Participation Score
+- Quiz Average
+
+Target Variable:
+- Total Score
+
+Technologies Used
+-----------------
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+Machine Learning Steps
+----------------------
+1. Loaded and explored the dataset.
+2. Selected input features and target variable.
+3. Trained a Linear Regression model.
+4. Predicted student total scores.
+5. Evaluated model performance using:
+   - Mean Absolute Error (MAE)
+   - Mean Squared Error (MSE)
+   - Root Mean Squared Error (RMSE)
+   - R² Score
+6. Visualized score distribution with a histogram.
+7. Compared actual and predicted values using plots.
+8. Built an interactive prediction system that allows users to enter student information and receive a predicted total score.
+
+Skills Demonstrated
+-------------------
+- Data preprocessing
+- Feature selection
+- Regression modeling
+- Model evaluation
+- Data visualization
+- User input handling
+- Machine Learning with Scikit-learn
+
+Project Outcome
+---------------
+The model successfully predicts student total scores based on academic performance indicators and demonstrates the fundamentals of supervised machine learning using Linear Regression.
+
+Future Improvements
+-------------------
+- Train/Test split for better model evaluation
+- Feature scaling and preprocessing pipeline
+- Hyperparameter tuning
+- Compare Linear Regression with Decision Tree, Random Forest, and Gradient Boosting
+- Cross-validation for robust performance estimation
+- Deploy the model as a web application using Streamlit or Flask
+
+Author
+------
+Harsh Yadav
+DTU | IIT Guwahati BS in Data Science & AI
