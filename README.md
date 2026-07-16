@@ -85,7 +85,8 @@ The model is evaluated using:
 
 Shows how student scores are distributed across the dataset.
 
-![Distribution of Total Scores](distribution_of_total_scores.png)
+![Distribution of Total Scores](Student-Performance-Prediction-using-Linear-Regression/ml_project
+/distribution_of_total_scores.png)
 
 ---
 
