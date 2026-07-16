@@ -85,8 +85,7 @@ The model is evaluated using:
 
 Shows how student scores are distributed across the dataset.
 
-![Distribution of Total Scores](Student-Performance-Prediction-using-Linear-Regression/ml_project
-/distribution_of_total_scores.png)
+![Distribution of Total Scores](https://github.com/harshyadav024/Student-Performance-Prediction-using-Linear-Regression/blob/main/ml_project/distribution_of_total_scores.png)
 
 ---
 
@@ -94,7 +93,7 @@ Shows how student scores are distributed across the dataset.
 
 Compares the model's predicted scores with the actual student scores.
 
-![Actual vs Predicted Scores](actual_vs_predicted_scores.png)
+![Actual vs Predicted Scores](https://github.com/harshyadav024/Student-Performance-Prediction-using-Linear-Regression/blob/main/ml_project/actual_vs_predicted_scores.png)
 
 ---
 
